@@ -1,0 +1,8 @@
+node_modules
+.git
+.gitignore
+uploads
+processed
+auth
+.env
+README.md
