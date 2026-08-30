@@ -1,0 +1,16 @@
+{
+  "name": "dianz-clean-backend",
+  "version": "1.0.0",
+  "description": "Dianz Clean - HD Video Processor by Yanz Storu",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.1",
+    "pino": "^9.6.0"
+  }
+}
